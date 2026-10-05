@@ -1,4 +1,4 @@
-
+<h1 align="center">Dino511: Code & Creativity 🚀</h1>
 
 <p align="center">
   <b> Vibe Coder</b> | Why run the heavy calculations myself when my AI wingman has all the processing power?
